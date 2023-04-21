@@ -1,0 +1,14 @@
+[submodule "mia-website"]
+	path = mia-website
+	url = git@github.com:alan-khosro/mia-website.git
+	branch = .
+	update = rebase
+[submodule "people"]
+	path = people
+	url = git@github.com:alan-khosro/PEOPLE.git
+	branch = .
+[submodule "mia-web-server"]
+	path = mia-web-server
+	url = git@github.com:alan-khosro/mia-web-server.git
+    branch = .
+    update = rebase
